@@ -1,4 +1,3 @@
-# vivek3d.cf
 [Meteorite Landings](/meteorite-landings/) : Visualizer of all documented meteorite landings  
 [Square Wave](/squarewave/) : Audio visualization of a wavy, spiraling square  
 [Geometric Tuneage](/geometric-tuneage/) : Audio visualization of particles moving along a three dimensional trajectory  
